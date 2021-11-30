@@ -1,0 +1,13 @@
+#include <stuid.h>;
+
+
+int main(){
+
+int n1,n2;
+if (n1==n2){
+    printf("Number1 and Number2 are equal");
+}else{
+    printf("Number1 and Number2 are not equal");
+}
+
+}
